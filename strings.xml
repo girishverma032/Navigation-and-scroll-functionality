@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">City Guide</string>
+    <string name="logo_name">Get A Way</string>
+    <string name="slogan_name">We will help you to find your way!</string>
+    <string name="powered_by">powerd by girish kumar</string>
+
+    <string name="first_slide_tittle">Search your location</string>
+    <string name="second_slide_tittle">Make a call</string>
+    <string name="third_slide_tittle">Add missing Place</string>
+    <string name="fourth_slide_tittle">Sit Back and Enjoy</string>
+
+    <!--discription-->
+    <string name="first_slide_desc"> you acn searhc any place nearby or with in the specifies city we will display specific or all related shop to match your</string>
+    <string name="second_slide_desc"> you provide almost all the place of department and shops registered with usyou can perform booking as well</string>
+    <string name="third_slide_desc">if you have a shop oe something and want to be a part of our growing industry then add your placeby following step</string>
+    <string name="fourth_slide_desc">We wil handle everything for you As you have the app in your pocket then </string>
+
+
+    <!--butthon-->
+    <string name="skip_btn">Skip</string>
+    <string name="next_btn">Next</string>
+    <string name="let_get_started">Lets Get Started</string>
+
+    <!--strins for dashboard-->
+
+    <!--categories-->
+
+    <string name="hotels">HotelsAll</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="shops">Shops</string>
+    <string name="education">Education</string>
+    <string name="airports">Airports</string>
+
+
+    <!--tittles-->
+    <string name="featured_locations">All featured Locayion</string>
+    <string name="featured_locations_description">all the loaction that featured and have the top deamed in town</string>
+    <string name="most_viewed_locations">Most Viewed</string>
+    <string name="categories">Categreous</string>
+    <string name="view_all">View All</string>
+    <string name="search_text">Search......</string>
+
+
+    <string name="home">girish kuamr houdse</string>
+    <string name="search">girish kuamr houdse</string>
+    <string name="all_categories">girish kuamr houdse</string>
+    <string name="add_missing_place">girish kuamr houdse</string>
+
+    <string name="login">Login</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+
+    <string name="banks">Bnaks Ak</string>
+    <string name="share">Share</string>
+    <string name="rate_us">RateUs</string>
+
+
+
+</resources>
